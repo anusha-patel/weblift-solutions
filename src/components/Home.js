@@ -1,12 +1,12 @@
-import React from "react";
 import Navbar from "./Navbar";
-
+import Hero from "../Hero";
 function Homepage() {
   return (
+
     <div>
-      <h1>WebLift Solutions</h1>
-      <Navbar />
-      <p>Digital Marketing & Web Development</p>
+      <Navbar /> <br/>
+      <Hero/>
+    
     </div>
   );
 }
