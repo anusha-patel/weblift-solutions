@@ -14,7 +14,7 @@ function Nav() {
       <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
-            <a href="#" className="flex-shrink-0">
+            <a href="/" className="flex-shrink-0">
                 <h1 className=' text-white mx-10 px-2 py-2 text-2xl rounded-sm  hover:text-gray-700 hover:bg-white'> Weblift</h1>
             </a>
 
