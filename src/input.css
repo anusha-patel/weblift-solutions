@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+/* Weblift Solutions Global Colors */
+@theme {
+  --color-primary: #123B6D;
+  --color-secondary: #14B8A6;
+  --color-background: #FFFFFF;
+  --color-dark: #111827;
+  --color-muted: #6B7280;
+}
